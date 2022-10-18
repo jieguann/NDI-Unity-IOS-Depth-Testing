@@ -237,8 +237,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _ndiName: JIE (ZIG SIM PRO)
-  _targetTexture: {fileID: 0}
-  _targetRenderer: {fileID: 1270784983}
+  _targetTexture: {fileID: 8400000, guid: 6ee601da9061360408941c10ff4a3737, type: 2}
+  _targetRenderer: {fileID: 0}
   _targetMaterialProperty: _MainTex
   _resources: {fileID: 11400000, guid: 69304b86950074db7ba8caba75214004, type: 2}
 --- !u!4 &697546774
