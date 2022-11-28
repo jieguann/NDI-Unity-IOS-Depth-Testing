@@ -236,7 +236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a09ab5fc64402d49b12d170a7577986, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ndiName: JIE (ZIG SIM PRO)
+  _ndiName: DESKTOP-DFOGF9M (Remote Connection 1)
   _targetTexture: {fileID: 8400000, guid: 6ee601da9061360408941c10ff4a3737, type: 2}
   _targetRenderer: {fileID: 0}
   _targetMaterialProperty: _MainTex
